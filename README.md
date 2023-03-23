@@ -8,7 +8,7 @@ can classify comments into four categories: positive feedback, negative feedback
 
 - [Extracting comments using the YouTube API](#extracting-comments-using-the-youtube-api)
 - [Zero-shot classification](#zero-shot-classification)
- - [Summarization Techniques](#summarization-techniques)
+- [Summarization Techniques](#summarization-techniques)
   - [Extractive Summarization](#extractive-summarization)
   - [Abstractive Summarization](#abstractive-summarization)
 - [Usage](#usage)
