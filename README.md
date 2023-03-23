@@ -15,7 +15,8 @@ can classify comments into four categories: positive feedback, negative feedback
 - [Contributing](#contributing)
 - [License](#license)
 
-![Flowchart](/path/to/flowchart.jpg)
+![Flowchart](flowchart.jpg)
+
 
 ## Extracting comments using the YouTube API
 
