@@ -15,6 +15,8 @@ can classify comments into four categories: positive feedback, negative feedback
 - [Contributing](#contributing)
 - [License](#license)
 
+![Flowchart](/path/to/flowchart.jpg)
+
 ## Extracting comments using the YouTube API
 
 To extract comments using the YouTube API, you will need to create a Google Cloud Platform project and enable the YouTube Data API v3. Then, you can use the `Comments` endpoint to retrieve comments for a specific video.
